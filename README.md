@@ -1,0 +1,1 @@
+# plugins-bbpress-enable-tinymce-visual-tab
